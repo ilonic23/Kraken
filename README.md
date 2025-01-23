@@ -1,1 +1,2 @@
 # Kraken
+Kraken programming language
